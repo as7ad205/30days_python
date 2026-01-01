@@ -1,0 +1,3 @@
+dinar=int(input("how much is total? "))
+dolar=int(input("how much one dolar to dinar? "))
+print(dinar/dolar)
