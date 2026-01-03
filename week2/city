@@ -1,0 +1,4 @@
+city=["erbil","dhok","musil"]
+city.append("sulaimanya")
+city.remove("erbil")
+print(city)
